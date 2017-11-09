@@ -11,6 +11,8 @@ The book that we will be using during the course is:
 
 - ***Programming in Scala***, 3rd Ed. By Martin Odersky et al.
 
+The [Scala](http://www.scala-lang.org) website also contains several links to useful learning material. 
+
 While this is a scala Course, I'll be using from time to time [Haskell](http://haskell.org) to explain some core functional programming concepts as it provides a more succint and extremely clear syntax. If you want to deepen your understanding of functional programmign and in particular of Haskell I suggest the following two books:
 
 - ***Haskell: The Craft of Functional Programming***, 2nd Ed by Simon Thompson.
