@@ -4,7 +4,7 @@ This is the repository for the ESIEE 2017-DRIO-5201C-Scala.
 
 The syllabus of the course is available [here](Syllabus.pdf).
 
-The current list of projects proposals is available [here](project.xls), please pick one and notify at latest by the second class.
+The current list of projects proposals is available [here](https://github.com/kydos/2017-DRIO-5201C-Scala/raw/master/project.xlsx), please pick one and notify at latest by the second class.
 
 ### Course Material
 The book that we will be using during the course is:
